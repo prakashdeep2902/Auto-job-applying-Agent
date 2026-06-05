@@ -19,12 +19,13 @@ version:    24.12.3.10.30
 
 
 # Login Credentials for LinkedIn (Optional)
-username = "username@example.com"       # Enter your username in the quotes
-password = "example_password"           # Enter your password in the quotes
+username = "prakashdeep2902@gmail.com"       # Enter your username in the quotes
+password = "@9Deep2000"           # Enter your password in the quotes
 
 
 ## Artificial Intelligence (Beta Not-Recommended)
 # Use AI
+
 use_AI = False                          # True or False, Note: True or False are case-sensitive
 '''
 Note: Set it as True only if you want to use AI, and If you either have a
