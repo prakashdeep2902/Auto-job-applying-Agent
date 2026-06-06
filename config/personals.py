@@ -1,11 +1,10 @@
 # >>>>>>>>>>> Easy Apply Questions & Inputs <<<<<<<<<<<
 
 # Your legal name
-first_name = "Prakash"  # Your first name in quotes Eg: "First", "Sai"
-middle_name = "Deep"  # Your name in quotes Eg: "Middle", "Vignesh", ""
-last_name = "Sharma"  # Your last name in quotes Eg: "Last", "Golla"
+first_name = "Prakash"
+middle_name = "Deep"
+last_name = "Sharma"
 
-# Phone number (required), make sure it's valid.
 phone_number = "8051288351"  # Enter your 10 digit number in quotes Eg: "9876543210"
 
 # What is your current city?

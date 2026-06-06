@@ -15,7 +15,7 @@ search_terms = [
     "MERN Stack Developer",
     "Web Developer",
     "AI Engineer",
-    "Agentic AI Engineer"
+    "Agentic AI Engineer",
 ]
 
 # If targeting Indian companies
@@ -32,25 +32,17 @@ randomize_search_order = True
 ######################################################
 
 sort_by = "Most recent"
-date_posted = "Past week"
+date_posted = "Past month"
 
 salary = ""
 
 easy_apply_only = True
 
-experience_level = [
-    "Entry level",
-    "Associate"
-]
+experience_level = ["Entry level", "Associate"]
 
-job_type = [
-    "Full-time"
-]
+job_type = ["Full-time"]
 
-on_site = [
-    "Remote",
-    "Hybrid"
-]
+on_site = ["On-site", "Remote", "Hybrid"]
 
 companies = []
 
@@ -71,12 +63,7 @@ pause_after_filters = True
 # SKIP IRRELEVANT JOBS
 ######################################################
 
-about_company_bad_words = [
-    "Crossover",
-    "Staffing",
-    "Recruiting",
-    "Consultancy"
-]
+about_company_bad_words = ["Crossover", "Staffing", "Recruiting", "Consultancy"]
 
 about_company_good_words = [
     "Microsoft",
@@ -85,7 +72,7 @@ about_company_good_words = [
     "Atlassian",
     "Stripe",
     "Datadog",
-    "HubSpot"
+    "HubSpot",
 ]
 
 bad_words = [
@@ -101,7 +88,7 @@ bad_words = [
     "CNC",
     "10+ years",
     "12+ years",
-    "15+ years"
+    "15+ years",
 ]
 
 security_clearance = False

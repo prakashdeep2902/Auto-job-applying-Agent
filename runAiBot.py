@@ -483,7 +483,6 @@ def get_job_description() -> (
     - `skipMessage: str | None`
     """
     try:
-        ##> ------ Dheeraj Deshwal : dheeraj9811 Email:dheeraj20194@iiitd.ac.in/dheerajdeshwal9811@gmail.com - Feature ------
 
         jobDescription = "Unknown"
         ##<
